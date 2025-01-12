@@ -1,3 +1,4 @@
+import Navbar from "./components/Navbar";
 import bgVideo from "/earth-bg.mp4";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         >
           <source src={bgVideo} type="video/mp4" />
         </video>
+        <Navbar />
       </div>
     </>
   );
