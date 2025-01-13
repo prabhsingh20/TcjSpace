@@ -1,3 +1,5 @@
+import moonSurface from "../../public/moon-surface-hd.png";
+
 function Hero() {
   return (
     <div className="relative z-50 h-full bg-black/20 text-white">
@@ -17,6 +19,12 @@ function Hero() {
           </div>
         </div>
       </div>
+      <img
+        src={moonSurface}
+        alt="moon surface"
+        className="absolute bottom-0 right-0 z-10 w-full brightness-50"
+      />
+      <div className="absolute bottom-0 z-30 h-5 w-full bg-gradient-to-b from-transparent from-10% to-black to-90% sm:h-[50px] md:h-[60px]"></div>
     </div>
   );
 }
