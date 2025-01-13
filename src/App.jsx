@@ -1,7 +1,8 @@
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
 import Cards from "./components/Cards";
+import Hero from "./components/Hero";
 import Mission from "./components/Mission";
+import Navbar from "./components/Navbar";
+import Satellite from "./components/Satellite";
 import bgVideo from "/earth-bg.mp4";
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       </div>
       <Cards />
       <Mission />
+      <Satellite />
     </>
   );
 }
