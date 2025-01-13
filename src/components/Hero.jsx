@@ -1,4 +1,4 @@
-import moonSurface from "../../public/moon-surface-hd.png";
+import moonSurface from "/moon-surface-hd.png";
 
 function Hero() {
   return (

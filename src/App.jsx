@@ -1,6 +1,7 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Services from "./components/Cards";
+import Cards from "./components/Cards";
+import Mission from "./components/Mission";
 import bgVideo from "/earth-bg.mp4";
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
         <Navbar />
         <Hero />
       </div>
-      <Services />
+      <Cards />
+      <Mission />
     </>
   );
 }

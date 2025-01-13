@@ -1,6 +1,6 @@
 import { FaReact } from "react-icons/fa";
 import { FaShuttleSpace, FaSpaceAwesome } from "react-icons/fa6";
-import wave from "../../public/wave Gif.gif";
+import wave from "/wave Gif.gif";
 
 const serviceData = [
   {
@@ -29,7 +29,7 @@ const serviceData = [
   },
 ];
 
-function Services() {
+function Cards() {
   return (
     <section className="bg-primary text-white">
       <div className="container">
@@ -58,4 +58,4 @@ function Services() {
   );
 }
 
-export default Services;
+export default Cards;
