@@ -1,5 +1,6 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Services from "./components/Cards";
 import bgVideo from "/earth-bg.mp4";
 
 function App() {
@@ -10,13 +11,14 @@ function App() {
           autoPlay
           loop
           muted
-          className="fixed right-0 top-0 -z-10 h-[700px] w-full object-cover"
+          className="fixed right-0 top-0 z-[-1] h-[700px] w-full object-cover"
         >
           <source src={bgVideo} type="video/mp4" />
         </video>
         <Navbar />
         <Hero />
       </div>
+      <Services />
     </>
   );
 }
