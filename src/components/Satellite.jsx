@@ -1,19 +1,12 @@
-import sateliteImg from "/satelite1.jpg";
+import satelitImg from "/satelite2.jpg";
 
-function Mission() {
+function Satellite() {
   return (
     <>
-      <section className="bg-primary pb-12 text-white">
+      <section className="bg-primary py-20 text-white">
         <div className="container">
           <div className="grid grid-cols-1 items-center gap-4 sm:grid-cols-2">
-            <div data-aos="zoom-in">
-              <img
-                src={sateliteImg}
-                alt=""
-                className="mx-auto max-h-[350px] w-full object-cover sm:w-[80%]"
-              />
-            </div>
-            <div className="space-y-3 border-b-2 border-r-2 border-b-sky-800 border-r-sky-800 p-4 xl:pr-36">
+            <div className="space-y-3 border-b-2 border-l-2 border-b-sky-800 border-l-sky-800 p-4 xl:pr-36">
               <p
                 data-aos="fade-up"
                 data-aos-delay="300"
@@ -44,6 +37,13 @@ function Mission() {
                 View All
               </button>
             </div>
+            <div data-aos="zoom-in">
+              <img
+                src={satelitImg}
+                alt=""
+                className="mx-auto max-h-[350px] w-full object-cover sm:w-[80%]"
+              />
+            </div>
           </div>
         </div>
       </section>
@@ -51,4 +51,4 @@ function Mission() {
   );
 }
 
-export default Mission;
+export default Satellite;

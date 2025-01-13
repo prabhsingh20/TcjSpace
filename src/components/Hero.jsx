@@ -13,9 +13,7 @@ function Hero() {
               libero rerum, beatae, exercitationem suscipit nostrum ab sunt
               neque ipsum eaque tempore. Earum, natus!
             </p>
-            <button className="rounded-md bg-blue-400 px-4 py-2 text-white duration-200 hover:bg-blue-500">
-              Learn More
-            </button>
+            <button className="primary-btn">Learn More</button>
           </div>
         </div>
       </div>
