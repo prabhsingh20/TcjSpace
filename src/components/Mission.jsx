@@ -9,7 +9,7 @@ function Mission() {
             <div data-aos="zoom-in">
               <img
                 src={sateliteImg}
-                alt=""
+                alt="satellite image"
                 className="mx-auto max-h-[350px] w-full object-cover sm:w-[80%]"
               />
             </div>

@@ -37,6 +37,8 @@ function Cards() {
           <div className="relative z-10 grid grid-cols-1 gap-6 sm:grid-cols-3">
             {serviceData.map((data, i) => (
               <div
+                data-aos="fade-up"
+                data-aos-delay={data.aosDelay}
                 key={i}
                 className="mx-auto flex min-h-[180px] w-full flex-col items-center justify-center gap-2 rounded-xl bg-sky-900/60 px-3 py-8 text-center text-2xl backdrop:blur-sm lg:w-[300px]"
               >
