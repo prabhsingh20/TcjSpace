@@ -22,12 +22,11 @@ function Satellite() {
                 Rapidscat
               </h1>
               <p data-aos="fade-up" data-aos-delay="700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-                molestiae reprehenderit expedita corporis, non doloremque.
-                Consequatur consectetur quisquam qui sunt. Lorem ipsum dolor sit
-                amet consectetur adipisicing elit. Eos molestiae reprehenderit
-                expedita corporis, non doloremque. Consequatur consectetur
-                quisquam qui sunt.
+                The RapidScat mission collects real-time wind data from the
+                ocean&apos;s surface, crucial for improving weather models and
+                predicting storms. Its innovative technology contributes
+                significantly to understanding ocean currents and their role in
+                climate change.
               </p>
               <button
                 data-aos="fade-up"
