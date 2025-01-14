@@ -1,4 +1,5 @@
 import Cards from "./components/Cards";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Mission from "./components/Mission";
 import Navbar from "./components/Navbar";
@@ -23,6 +24,7 @@ function App() {
       <Cards />
       <Mission />
       <Satellite />
+      <Footer />
     </>
   );
 }
