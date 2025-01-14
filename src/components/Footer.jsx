@@ -6,7 +6,7 @@ const year = new Date().getFullYear();
 
 function Footer() {
   return (
-    <div className="bg-gray-800">
+    <footer className="bg-gray-800">
       <section className="mx-auto max-w-[1200px] text-white">
         <div className="grid py-5 md:grid-cols-3">
           {/* first column */}
@@ -107,7 +107,7 @@ function Footer() {
           </div>
         </div>
       </section>
-    </div>
+    </footer>
   );
 }
 
