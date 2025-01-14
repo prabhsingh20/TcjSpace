@@ -4,16 +4,17 @@ function Hero() {
   return (
     <section className="relative z-10 h-full bg-black/20 text-white">
       <div className="flex h-full items-center justify-center p-4">
-        <div className="container grid grid-cols-1 gap-4 sm:grid-cols-2">
+        <div className="container grid grid-cols-1 gap-4 sm:grid-cols-[60%_40%]">
           <div className="space-y-4 lg:pr-36">
             <h1 data-aos="fade-up" className="text-5xl font-bold uppercase">
               Orbite The Earth
             </h1>
             <p data-aos="fade-up" data-aos-delay="300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta,
-              consectetur mollitia sapiente dolores voluptatibus nulla corporis
-              libero rerum, beatae, exercitationem suscipit nostrum ab sunt
-              neque ipsum eaque tempore. Earum, natus!
+              Welcome to Orbit the Earth, your gateway to exploring the vast and
+              awe-inspiring world of space. Our mission is to bring the wonders
+              of space closer to you, providing a platform that showcases the
+              latest advancements in space exploration, satellite technology,
+              and the science behind our understanding of the cosmos.
             </p>
             <button
               data-aos="fade-up"
