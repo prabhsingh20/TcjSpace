@@ -1,12 +1,12 @@
-# Galaxy: Space-Themed Website Template
+# Tcj-Space: Space Exploration Website
 
-Galaxy is a simple yet stunning space-themed website designed using React.js and Tailwind CSS. It showcases animations powered by AOS to create an immersive, visually appealing, and fully responsive user experience, highlighting exceptional frontend development skills.
+Tcj-Space is a captivating space exploration website designed using React.js and Tailwind CSS. It brings the wonders of the cosmos closer to you, showcasing the latest advancements in space exploration, satellite technology, and the science behind our understanding of the universe. With engaging animations powered by AOS and a responsive design, this project highlights exceptional frontend development skills.
 
 ## Preview
 
 Here’s a quick look at the design:
 
-Check out the [live demo](https://galaxy-space.vercel.app/)
+Check out the [live demo](https://tcj-space.vercel.app/)
 
 ## Table of Contents
 
@@ -21,15 +21,14 @@ Check out the [live demo](https://galaxy-space.vercel.app/)
 
 ## Project Description
 
-Galaxy is a visually captivating, space-themed website developed to showcase frontend design and development expertise. Built with React.js and styled using Tailwind CSS, it incorporates elegant animations powered by AOS for a dynamic, interactive feel. The responsive design ensures a seamless user experience across all devices.
+Welcome to Tcj-Space, your gateway to exploring the vast and awe-inspiring world of space. Our mission is to bring the wonders of space closer to you by providing a platform that showcases cutting-edge advancements in space exploration, satellite technology, and the science behind our understanding of the cosmos. This space-themed website is built with React.js and styled using Tailwind CSS, incorporating AOS animations for a dynamic, immersive user experience. It is fully responsive, ensuring seamless use across all devices.
 
 ## Features
 
-- **Space-Themed Sections**: Hero, about, missions, gallery, team, and contact sections designed with a space theme.
+- **Space Exploration Sections**: Hero, about, missions, gallery, technology, and contact sections inspired by space exploration.
 - **AOS Animations**: Smooth and engaging animations triggered by scrolling.
-- **Custom Visuals**: Space-inspired elements like starry backgrounds, planets, and cosmic effects.
+- **Cosmic Visuals**: Space-themed elements like rotating earth, orbiting satellites, and planetary designs.
 - **Responsive Design**: Optimized for all screen sizes, from mobile to desktop.
-- **Modern UI Trends**: Adopts clean, minimal, and futuristic design principles.
 
 ## Technologies Used
 
@@ -50,7 +49,7 @@ Galaxy is a visually captivating, space-themed website developed to showcase fro
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/prabhsingh20/galaxy.git
+   git clone https://github.com/prabhsingh20/TcjSpace.git
    ```
 
 2. **Navigate to the project directory**
@@ -58,7 +57,7 @@ Galaxy is a visually captivating, space-themed website developed to showcase fro
    Change into the project directory by running:
 
    ```bash
-   cd galaxy
+   cd TcjSpace
    ```
 
 3. **Install dependencies**
@@ -92,7 +91,7 @@ For a full list of dependencies, check the `package.json` file.
 
 ## Contributing
 
-✨ We welcome contributions to improve Galaxy! If you'd like to contribute, follow these steps:
+✨ We welcome contributions to improve TCJ-SPACE! If you'd like to contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
@@ -113,4 +112,3 @@ This project currently does not have a dedicated testing suite. However, we welc
 ## License
 
 This project is open-source and available under the MIT License. You can freely use, modify, and distribute the code. Please see the [LICENSE](./LICENSE) file for more detailed information.
-
