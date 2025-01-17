@@ -1,4 +1,4 @@
-# Tcj-Space: Space Exploration Website
+# Tcj-Space
 
 Tcj-Space is a captivating space exploration website designed using React.js and Tailwind CSS. It brings the wonders of the cosmos closer to you, showcasing the latest advancements in space exploration, satellite technology, and the science behind our understanding of the universe. With engaging animations powered by AOS and a responsive design, this project highlights exceptional frontend development skills.
 
